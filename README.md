@@ -1,4 +1,4 @@
-# 🏠 Deep Learning for Real Estate Price Prediction
+# 🏠 Deep Learning For Real Estate Price Prediction
 
 ## 📖 Overview
 This project leverages both traditional machine learning and deep learning techniques to predict real estate prices. The workflow encompasses the entire data science pipeline, from importing and exploring property datasets to visualizing key market trends, preparing the data, and ultimately training and comparing a Linear Regression model with an Artificial Neural Network (ANN).
